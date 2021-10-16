@@ -34,6 +34,9 @@ namespace AssessmentTask2Server
             
             services.AddControllers();
 
+            // Register ASP.Net MVC.
+            services.AddMvc();
+
             // Add Swagger
             // Requires the use of Microsoft.OpenApi.Models .
             services.AddSwaggerGen(c =>
