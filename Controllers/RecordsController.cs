@@ -12,7 +12,7 @@ using AssessmentTask2Server.Models;
 // 1. Right click on Controllers folder -> 'Add' -> 'New Scaffolded Item...'
 // 2. Select 'API Controller with actions, using Entity Framework'
 // 3. Specify Model class, Data context class and Controller name
-// 4. Allow the generation process to complete. May need a 2nd atempt.
+// 4. Allow the generation process to complete. May need a 2nd attempt.
 namespace AssessmentTask2Server
 {
     [Route("api/[controller]")]
