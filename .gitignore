@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Ignore launchSettings.json
-Properties/launchSettings.json
+/Properties/launchSettings.json
